@@ -1,3 +1,34 @@
-body {
-  background-color: #CEE5D0
+
+h2 {
+  text-align: center;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+.brew-h2 {
+  text-align: center;
+  margin: 150px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+.brew-row {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+}
+
+.inn-img {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.ww-img {
+  width: 15%;
+  float: left;
+  margin-right: 30px;
 }
